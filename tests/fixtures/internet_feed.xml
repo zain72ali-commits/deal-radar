@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Real items from https://www.ozbargain.com.au/cat/internet/feed (fetched 2026-10-12), descriptions trimmed. -->
+<rss version="2.0" xml:base="https://www.ozbargain.com.au" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:ozb="https://www.ozbargain.com.au">
+<channel>
+ <title>OzBargain - Internet</title>
+ <link>https://www.ozbargain.com.au/cat/internet/feed</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>nbn FTTP or HFC 500/50 $82/M Carbon Network &amp; Static IPv4, $84/M ABB Direct Network (New and Existing Customers) @ Carbon Comms</title>
+ <link>https://www.ozbargain.com.au/node/978661</link>
+ <description><![CDATA[<p>trimmed</p>]]></description>
+ <category domain="https://www.ozbargain.com.au/cat/internet">Internet</category>
+ <category domain="https://www.ozbargain.com.au/tag/broadband">Broadband</category>
+ <category domain="https://www.ozbargain.com.au/tag/nbn">nbn</category>
+ <ozb:meta comment-count="68" link="https://www.ozbargain.com.au/goto/978661" click-count="684" expiry="2027-01-01T00:00:00+11:00" starting="2026-10-12T00:00:00+11:00" votes-pos="50" votes-neg="0" url="https://carboncomms.com.au/pages/carbon-comms-nbn-plans" image="https://files.ozbargain.com.au/n/61/978661l.jpg?h=67567ae9" />
+ <pubDate>Mon, 12 Oct 2026 14:01:39 +1100</pubDate>
+ <dc:creator>carboncomms</dc:creator>
+ <guid isPermaLink="false">978661 at https://www.ozbargain.com.au</guid>
+</item>
+<item>
+ <title>nbn 25/10 $30/Month for 6 Months, nbn FTTP or HFC 750/50 $60/Month for 6 Months (New Customers) @ amaysim</title>
+ <link>https://www.ozbargain.com.au/node/977478</link>
+ <description><![CDATA[<p>trimmed</p>]]></description>
+ <category domain="https://www.ozbargain.com.au/cat/internet">Internet</category>
+ <category domain="https://www.ozbargain.com.au/tag/nbn">nbn</category>
+ <ozb:meta comment-count="73" link="https://www.ozbargain.com.au/goto/977478" click-count="1230" expiry="2026-10-24T00:00:00+11:00" votes-pos="41" votes-neg="7" url="https://www.amaysim.com.au/home-internet/nbn" image="https://files.ozbargain.com.au/n/78/977478l.jpg?h=f4b31213" />
+ <pubDate>Fri, 02 Oct 2026 17:25:42 +1000</pubDate>
+ <dc:creator>Hiphopopotamus</dc:creator>
+ <guid isPermaLink="false">977478 at https://www.ozbargain.com.au</guid>
+</item>
+<item>
+ <title>Adguard Ad Blocker Family Plan (Lifetime, 9 Devices) US$11 (~A$16) + 10% GST @ StackSocial</title>
+ <link>https://www.ozbargain.com.au/node/976888</link>
+ <description><![CDATA[<p>trimmed</p>]]></description>
+ <category domain="https://www.ozbargain.com.au/cat/internet">Internet</category>
+ <category domain="https://www.ozbargain.com.au/product/adguard-family">AdGuard Family</category>
+ <category domain="https://www.ozbargain.com.au/tag/software">Software</category>
+ <ozb:meta comment-count="59" link="https://www.ozbargain.com.au/goto/976888" click-count="865" votes-pos="37" votes-neg="0" url="https://www.stacksocial.com/sales/adguard-family-plan-lifetime-subscription" image="https://files.ozbargain.com.au/n/88/976888l.jpg?h=6ecf1e86" />
+ <pubDate>Tue, 29 Sep 2026 11:15:43 +1000</pubDate>
+ <dc:creator>CrikeyCheap</dc:creator>
+ <guid isPermaLink="false">976888 at https://www.ozbargain.com.au</guid>
+</item>
+<item>
+ <title>Free Upgrade from nbn FTTC to FTTP: No Minimum Speed Plan (Was 500/50), FTTN to FTTP: 500/50 Minimum Speed Plan @ nbn via ISPs</title>
+ <link>https://www.ozbargain.com.au/node/971220</link>
+ <description><![CDATA[<p>trimmed</p>]]></description>
+ <category domain="https://www.ozbargain.com.au/cat/internet">Internet</category>
+ <category domain="https://www.ozbargain.com.au/tag/nbn">nbn</category>
+ <ozb:meta comment-count="75" link="https://www.ozbargain.com.au/goto/971220" click-count="1749" votes-pos="37" votes-neg="0" url="https://www.nbnco.com.au/residential/upgrades/more-fibre" image="https://files.ozbargain.com.au/n/20/971220l.jpg?h=9502d9df" />
+ <ozb:title-msg type="longrunning">long running</ozb:title-msg>
+ <pubDate>Thu, 13 Aug 2026 13:15:23 +1000</pubDate>
+ <dc:creator>Twix</dc:creator>
+ <guid isPermaLink="false">971220 at https://www.ozbargain.com.au</guid>
+</item>
+</channel>
+</rss>

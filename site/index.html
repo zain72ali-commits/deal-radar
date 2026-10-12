@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Security-Policy"
+        content="default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self' https://files.ozbargain.com.au; connect-src 'self'; base-uri 'none'; form-action 'none'">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <title>Deal Radar</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="top">
+    <div class="wrap">
+      <h1>Deal Radar</h1>
+      <p class="status" id="status">Loading deals…</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <p class="alert" id="alert" hidden></p>
+
+    <section class="controls" aria-label="Filters">
+      <input class="search" id="search" type="search" placeholder="Search deals, brands, stores…" aria-label="Search deals">
+      <div class="chips" id="categories" role="group" aria-label="Categories"></div>
+      <div class="row">
+        <label class="toggle"><input type="checkbox" id="new-only"> New today</label>
+        <label class="toggle"><input type="checkbox" id="priced-only"> Has a price</label>
+        <label class="toggle"><input type="checkbox" id="good-only"> Strong or positive votes</label>
+        <label class="field">Max $
+          <input id="max-price" type="number" min="0" step="1" inputmode="numeric" placeholder="any">
+        </label>
+        <label class="field">Sort
+          <select id="sort">
+            <option value="newest">Newest</option>
+            <option value="votes">Most votes</option>
+            <option value="discount">Biggest discount</option>
+            <option value="price">Lowest price</option>
+            <option value="ending">Ending soon</option>
+          </select>
+        </label>
+      </div>
+    </section>
+
+    <p class="count" id="count" aria-live="polite"></p>
+    <section class="grid" id="deals" aria-label="Deals"></section>
+    <p class="empty" id="empty" hidden>No deals match these filters.</p>
+  </main>
+
+  <footer class="wrap foot">
+    Data from OzBargain category feeds, checked daily. Prices are read from deal titles, so always confirm on the deal page.
+  </footer>
+</body>
+</html>

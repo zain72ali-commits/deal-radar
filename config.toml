@@ -1,0 +1,64 @@
+# OzBargain Deal Bot configuration.
+# Edit this file and push it; the next daily run picks up the changes.
+
+[source]
+base_url = "https://www.ozbargain.com.au"
+# Identify the bot honestly so OzBargain can see who is polling.
+user_agent = "deal-radar/1.0 (personal daily digest; +https://github.com/zain72ali-commits/deal-radar)"
+request_timeout_seconds = 20
+# Pause between category feeds so the bot stays light on OzBargain's servers.
+delay_between_requests_seconds = 3
+
+# One block per OzBargain category. `slug` is the part after /cat/ in the
+# category's URL, e.g. https://www.ozbargain.com.au/cat/computing -> "computing".
+# Optional: max_price = 500  (AUD) drops priced deals above that amount.
+[[categories]]
+name = "Computing"
+slug = "computing"
+
+[[categories]]
+name = "Gaming"
+slug = "gaming"
+
+[[categories]]
+name = "Electrical & Electronics"
+slug = "electrical-electronics"
+
+[[categories]]
+name = "Travel"
+slug = "travel"
+
+[[categories]]
+name = "Entertainment"
+slug = "entertainment"
+
+# OzBargain has no "Utilities" category; nbn/broadband and phone plans live here.
+[[categories]]
+name = "Internet"
+slug = "internet"
+
+[[categories]]
+name = "Mobile"
+slug = "mobile"
+
+[filters]
+# Keep deals whose price can't be read from the title (e.g. "20% off sitewide").
+include_unpriced = true
+# Deals in these OzBargain categories are always dropped (some deals cross-list).
+exclude_categories = ["Alcohol", "Pets"]
+# Whole-word, case-insensitive matches against the title and OzBargain tags.
+exclude_keywords = [
+  "alcohol", "beer", "wine", "wines", "spirits", "whisky", "whiskey", "vodka",
+  "gin", "rum", "liquor", "champagne",
+  "pet", "pets", "dog", "dogs", "puppy", "kitten", "cat food", "cat litter",
+  "medicare",
+]
+# A deal that drops out of OzBargain's feed is still shown (marked "last
+# confirmed <date>") until it expires or this many days pass.
+keep_unconfirmed_days = 7
+
+[scoring]
+# How the community vote verdict is worked out (see README "Competitiveness").
+min_votes_for_verdict = 10    # fewer total votes than this -> "Early"
+strong_min_votes = 50         # at least this many upvotes -> "Strong"
+mixed_negative_ratio = 0.15   # downvotes >= 15% of all votes -> "Mixed"
