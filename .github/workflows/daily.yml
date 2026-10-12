@@ -1,0 +1,75 @@
+name: Daily deal check
+
+on:
+  schedule:
+    # 7:17am Melbourne time every day (off the hour, when GitHub's queues are busiest).
+    - cron: "17 7 * * *"
+      timezone: "Australia/Melbourne"
+  workflow_dispatch: # "Run workflow" button on the Actions tab
+
+permissions: {} # each job asks only for what it needs
+
+concurrency:
+  group: daily-deal-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write # commit data/state.json back to the repo
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false # don't leave the token in .git/config for later steps
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tests
+        run: python -m unittest discover -s tests -t .
+
+      - name: Check OzBargain
+        run: python -m dealbot
+
+      - name: Save state
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/state.json
+          if git diff --cached --quiet; then
+            echo "State unchanged."
+            exit 0
+          fi
+          git commit -m "Update deal state $(date -u +%Y-%m-%d)"
+          remote="https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          # Rebase in case config.toml was edited on GitHub while this run was going.
+          git pull --rebase "$remote" "$GITHUB_REF_NAME"
+          git push "$remote" "HEAD:$GITHUB_REF_NAME"
+
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: site
+
+  deploy:
+    needs: check
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write    # publish the dashboard
+      id-token: write # required by actions/deploy-pages
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/configure-pages@v6
+      - id: deploy
+        uses: actions/deploy-pages@v5
