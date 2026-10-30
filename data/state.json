@@ -119,7 +119,7 @@
    },
    "first_seen": "2026-10-21T23:22:46+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "975732": {
    "category_slug": "entertainment",
@@ -211,38 +211,6 @@
    "history": null,
    "last_seen": "2026-10-24T22:30:20+00:00"
   },
-  "975844": {
-   "category_slug": "travel",
-   "deal": {
-    "category": "Travel",
-    "comments": 8,
-    "expires_at": null,
-    "flagged_expired": false,
-    "id": "975844",
-    "image": "https://files.ozbargain.com.au/n/44/975844l.jpg?h=23dd9562",
-    "long_running": false,
-    "posted_at": "2026-09-21T07:52:24+10:00",
-    "price": {
-     "amount": 493.0,
-     "discount_pct": null,
-     "is_free": false,
-     "unit": null,
-     "was": null
-    },
-    "products": [],
-    "starts_at": null,
-    "tags": [
-     "Airfare"
-    ],
-    "title": "Singapore Airlines Rtn Flights To Singapore: PER $493, ADL $694, MEL $698, SYD $706, BNE $741 @ flightfinderau",
-    "url": "https://www.ozbargain.com.au/node/975844",
-    "votes_neg": 0,
-    "votes_pos": 36
-   },
-   "first_seen": "2026-10-12T07:21:32+00:00",
-   "history": null,
-   "last_seen": "2026-10-23T23:10:33+00:00"
-  },
   "975845": {
    "category_slug": "entertainment",
    "deal": {
@@ -320,7 +288,7 @@
    "category_slug": "internet",
    "deal": {
     "category": "Internet",
-    "comments": 215,
+    "comments": 216,
     "expires_at": "2026-11-05T00:00:00+11:00",
     "flagged_expired": false,
     "id": "976371",
@@ -349,7 +317,7 @@
    },
    "first_seen": "2026-10-12T07:21:32+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "976923": {
    "category_slug": "travel",
@@ -386,7 +354,7 @@
    },
    "first_seen": "2026-10-12T07:21:32+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "977571": {
    "category_slug": "travel",
@@ -418,7 +386,7 @@
    },
    "first_seen": "2026-10-12T07:21:32+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "977821": {
    "category_slug": "travel",
@@ -451,7 +419,7 @@
    },
    "first_seen": "2026-10-12T07:21:32+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "977865": {
    "category_slug": "internet",
@@ -486,45 +454,7 @@
    },
    "first_seen": "2026-10-12T07:21:32+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
-  },
-  "977921": {
-   "category_slug": "mobile",
-   "deal": {
-    "category": "Mobile",
-    "comments": 197,
-    "expires_at": "2026-11-01T00:00:00+11:00",
-    "flagged_expired": false,
-    "id": "977921",
-    "image": "https://files.ozbargain.com.au/n/21/977921l.jpg?h=627a661c",
-    "long_running": false,
-    "posted_at": "2026-10-06T17:29:16+11:00",
-    "price": {
-     "amount": 199.0,
-     "discount_pct": 38,
-     "is_free": false,
-     "unit": null,
-     "was": 320.0
-    },
-    "products": [
-     "amaysim-320-starter-pack"
-    ],
-    "starts_at": null,
-    "tags": [
-     "amaysim",
-     "amaysim $320 Starter Pack",
-     "Cashback",
-     "Prepaid Mobile Plan",
-     "SIM Card"
-    ],
-    "title": "amaysim Unlimited 240GB 12-Month Plan $199 Delivered (Was $320) + (Expired: $85 TopCashback AU Cashback) @ amaysim",
-    "url": "https://www.ozbargain.com.au/node/977921",
-    "votes_neg": 0,
-    "votes_pos": 211
-   },
-   "first_seen": "2026-10-12T07:21:32+00:00",
-   "history": null,
-   "last_seen": "2026-10-23T23:10:33+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "977982": {
    "category_slug": "mobile",
@@ -600,7 +530,7 @@
    },
    "first_seen": "2026-10-12T07:21:32+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "978236": {
    "category_slug": "mobile",
@@ -678,43 +608,7 @@
    },
    "first_seen": "2026-10-12T07:21:32+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
-  },
-  "978281": {
-   "category_slug": "entertainment",
-   "deal": {
-    "category": "Entertainment",
-    "comments": 36,
-    "expires_at": "2026-10-30T23:00:00+11:00",
-    "flagged_expired": false,
-    "id": "978281",
-    "image": "https://files.ozbargain.com.au/n/81/978281l.jpg?h=58072785",
-    "long_running": false,
-    "posted_at": "2026-10-09T09:34:02+11:00",
-    "price": {
-     "amount": 75.0,
-     "discount_pct": 46,
-     "is_free": false,
-     "unit": null,
-     "was": 139.99
-    },
-    "products": [
-     "britbox"
-    ],
-    "starts_at": null,
-    "tags": [
-     "BBC",
-     "Britbox",
-     "Video on Demand"
-    ],
-    "title": "Britbox Annual Plan $75 for New and Returning Subscribers (Was $139.99) @ Britbox",
-    "url": "https://www.ozbargain.com.au/node/978281",
-    "votes_neg": 0,
-    "votes_pos": 41
-   },
-   "first_seen": "2026-10-12T07:21:32+00:00",
-   "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "978337": {
    "category_slug": "gaming",
@@ -899,11 +793,11 @@
     "title": "1 Month Free Apple TV Trial for New and Eligible Returning Subscribers (Payment Information Required) @ Apple",
     "url": "https://www.ozbargain.com.au/node/978507",
     "votes_neg": 0,
-    "votes_pos": 202
+    "votes_pos": 203
    },
    "first_seen": "2026-10-12T07:21:32+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "978526": {
    "category_slug": "entertainment",
@@ -940,13 +834,13 @@
    },
    "first_seen": "2026-10-12T07:21:32+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "978533": {
    "category_slug": "entertainment",
    "deal": {
     "category": "Entertainment",
-    "comments": 20,
+    "comments": 21,
     "expires_at": "2026-10-31T12:20:00+11:00",
     "flagged_expired": false,
     "id": "978533",
@@ -977,7 +871,7 @@
    },
    "first_seen": "2026-10-12T07:21:32+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "978536": {
    "category_slug": "mobile",
@@ -1011,40 +905,7 @@
    },
    "first_seen": "2026-10-12T07:21:32+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
-  },
-  "978655": {
-   "category_slug": "internet",
-   "deal": {
-    "category": "Internet",
-    "comments": 84,
-    "expires_at": "2026-11-01T00:00:00+11:00",
-    "flagged_expired": false,
-    "id": "978655",
-    "image": "https://files.ozbargain.com.au/n/55/978655.jpg?h=9042a3fc",
-    "long_running": false,
-    "posted_at": "2026-10-12T13:44:25+11:00",
-    "price": {
-     "amount": 250.0,
-     "discount_pct": null,
-     "is_free": false,
-     "unit": null,
-     "was": null
-    },
-    "products": [],
-    "starts_at": null,
-    "tags": [
-     "Broadband",
-     "nbn"
-    ],
-    "title": "Join Optus nbn 100/20 or 500/50 ($69/Month for 6 Months), Stay 90 Days & Receive $250 Visa eGift Card @ Finder",
-    "url": "https://www.ozbargain.com.au/node/978655",
-    "votes_neg": 4,
-    "votes_pos": 62
-   },
-   "first_seen": "2026-10-13T02:02:10+00:00",
-   "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "978661": {
    "category_slug": "internet",
@@ -1079,7 +940,7 @@
    },
    "first_seen": "2026-10-12T07:21:32+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "978702": {
    "category_slug": "gaming",
@@ -1147,7 +1008,7 @@
    },
    "first_seen": "2026-10-13T23:44:41+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "978722": {
    "category_slug": "travel",
@@ -1180,13 +1041,13 @@
    },
    "first_seen": "2026-10-13T02:02:10+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "978749": {
    "category_slug": "mobile",
    "deal": {
     "category": "Mobile",
-    "comments": 48,
+    "comments": 49,
     "expires_at": null,
     "flagged_expired": false,
     "id": "978749",
@@ -1217,7 +1078,7 @@
    },
    "first_seen": "2026-10-13T23:44:41+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "978816": {
    "category_slug": "entertainment",
@@ -1258,7 +1119,7 @@
    },
    "first_seen": "2026-10-13T23:44:41+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "978903": {
    "category_slug": "mobile",
@@ -1294,44 +1155,7 @@
    },
    "first_seen": "2026-10-21T23:22:46+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
-  },
-  "979006": {
-   "category_slug": "computing",
-   "deal": {
-    "category": "Computing",
-    "comments": 40,
-    "expires_at": null,
-    "flagged_expired": false,
-    "id": "979006",
-    "image": "https://files.ozbargain.com.au/n/06/979006l.jpg?h=2aa6fb8b",
-    "long_running": false,
-    "posted_at": "2026-10-15T07:20:53+11:00",
-    "price": {
-     "amount": 50.0,
-     "discount_pct": null,
-     "is_free": false,
-     "unit": null,
-     "was": null
-    },
-    "products": [
-     "samsung-usb-type-c-flash-drive"
-    ],
-    "starts_at": null,
-    "tags": [
-     "256GB",
-     "Samsung",
-     "Samsung USB Type-C Flash Drive",
-     "USB Flash Drive"
-    ],
-    "title": "Samsung 256GB USB-C Flash Drive $50 in Limited Stores Only @ Officeworks",
-    "url": "https://www.ozbargain.com.au/node/979006",
-    "votes_neg": 0,
-    "votes_pos": 66
-   },
-   "first_seen": "2026-10-15T23:05:41+00:00",
-   "history": null,
-   "last_seen": "2026-10-23T23:10:33+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "979011": {
    "category_slug": "computing",
@@ -1409,7 +1233,7 @@
    },
    "first_seen": "2026-10-15T23:05:41+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "979124": {
    "category_slug": "computing",
@@ -1488,7 +1312,7 @@
    },
    "first_seen": "2026-10-15T23:05:41+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "979133": {
    "category_slug": "gaming",
@@ -1554,7 +1378,7 @@
    },
    "first_seen": "2026-10-16T22:52:46+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "979175": {
    "category_slug": "computing",
@@ -1663,7 +1487,7 @@
    },
    "first_seen": "2026-10-16T22:52:46+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "979307": {
    "category_slug": "computing",
@@ -1734,7 +1558,7 @@
    },
    "first_seen": "2026-10-17T22:22:03+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "979335": {
    "category_slug": "computing",
@@ -1800,7 +1624,7 @@
    },
    "first_seen": "2026-10-17T22:22:03+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "979359": {
    "category_slug": "electrical-electronics",
@@ -1865,11 +1689,11 @@
     "title": "Free: Up to 15% Upload Speed Boost for nbn Fixed Line Connections @ nbn via ISPs",
     "url": "https://www.ozbargain.com.au/node/979367",
     "votes_neg": 0,
-    "votes_pos": 444
+    "votes_pos": 446
    },
    "first_seen": "2026-10-17T22:22:03+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "979377": {
    "category_slug": "electrical-electronics",
@@ -1973,7 +1797,7 @@
    },
    "first_seen": "2026-10-22T23:25:01+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "979442": {
    "category_slug": "computing",
@@ -2044,13 +1868,13 @@
    },
    "first_seen": "2026-10-19T23:44:37+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "979482": {
    "category_slug": "mobile",
    "deal": {
     "category": "Mobile",
-    "comments": 87,
+    "comments": 88,
     "expires_at": "2026-12-01T00:00:00+11:00",
     "flagged_expired": false,
     "id": "979482",
@@ -2079,7 +1903,7 @@
    },
    "first_seen": "2026-10-19T23:44:37+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "979486": {
    "category_slug": "electrical-electronics",
@@ -2164,7 +1988,7 @@
    "category_slug": "travel",
    "deal": {
     "category": "Travel",
-    "comments": 37,
+    "comments": 40,
     "expires_at": null,
     "flagged_expired": false,
     "id": "979590",
@@ -2191,7 +2015,7 @@
    },
    "first_seen": "2026-10-19T23:44:37+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "979614": {
    "category_slug": "gaming",
@@ -2221,11 +2045,11 @@
     "title": "[PC, Epic] Free - GetHigh.EXE @ Epic Games",
     "url": "https://www.ozbargain.com.au/node/979614",
     "votes_neg": 0,
-    "votes_pos": 153
+    "votes_pos": 154
    },
    "first_seen": "2026-10-19T23:44:37+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "979616": {
    "category_slug": "travel",
@@ -2255,11 +2079,11 @@
     "title": "Link Your Velocity Frequent Flyer Account to ShopBack & Get 100 Velocity Points @ ShopBack",
     "url": "https://www.ozbargain.com.au/node/979616",
     "votes_neg": 0,
-    "votes_pos": 183
+    "votes_pos": 185
    },
    "first_seen": "2026-10-23T23:10:33+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "979655": {
    "category_slug": "mobile",
@@ -2296,7 +2120,7 @@
    },
    "first_seen": "2026-10-20T23:12:26+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "979685": {
    "category_slug": "mobile",
@@ -2336,7 +2160,7 @@
     "previous_low_date": "2026-10-12T07:21:32+00:00",
     "status": "new_low"
    },
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "979728": {
    "category_slug": "computing",
@@ -2415,7 +2239,7 @@
    },
    "first_seen": "2026-10-21T23:22:46+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "979774": {
    "category_slug": "computing",
@@ -2453,7 +2277,7 @@
    },
    "first_seen": "2026-10-21T23:22:46+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "979783": {
    "category_slug": "gaming",
@@ -2489,11 +2313,11 @@
     "title": "[PS4] Bloodborne $6.23, Shadow of The Colossus $6.59 @ PlayStation Store",
     "url": "https://www.ozbargain.com.au/node/979783",
     "votes_neg": 0,
-    "votes_pos": 48
+    "votes_pos": 49
    },
    "first_seen": "2026-10-21T23:22:46+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "979839": {
    "category_slug": "gaming",
@@ -2528,11 +2352,11 @@
     "title": "[PS5] Death Stranding Director’s Cut Digital Deluxe Edition $9.49 @ PlayStation",
     "url": "https://www.ozbargain.com.au/node/979839",
     "votes_neg": 0,
-    "votes_pos": 74
+    "votes_pos": 75
    },
    "first_seen": "2026-10-21T23:22:46+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "979892": {
    "category_slug": "computing",
@@ -2570,7 +2394,7 @@
    },
    "first_seen": "2026-10-21T23:22:46+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "979966": {
    "category_slug": "entertainment",
@@ -2606,7 +2430,7 @@
    },
    "first_seen": "2026-10-23T23:10:33+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "979969": {
    "category_slug": "entertainment",
@@ -2639,7 +2463,7 @@
    },
    "first_seen": "2026-10-22T23:25:01+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "979981": {
    "category_slug": "mobile",
@@ -2681,13 +2505,13 @@
     "previous_low_date": "2026-10-12T07:21:32+00:00",
     "status": "above_low"
    },
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980007": {
    "category_slug": "electrical-electronics",
    "deal": {
     "category": "Electrical & Electronics",
-    "comments": 156,
+    "comments": 161,
     "expires_at": "2026-12-01T18:00:00+11:00",
     "flagged_expired": false,
     "id": "980007",
@@ -2722,11 +2546,11 @@
     "title": "Bambu Lab 3D Printers: X2D Combo $1199, P2S Combo $999, A1 Combo $579, H2C Combo $2969 + Shipping @ Bambu Lab",
     "url": "https://www.ozbargain.com.au/node/980007",
     "votes_neg": 0,
-    "votes_pos": 142
+    "votes_pos": 145
    },
    "first_seen": "2026-10-27T23:47:51+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980014": {
    "category_slug": "gaming",
@@ -2760,56 +2584,17 @@
     "title": "[PC, Epic] Free - Sorry We’re Closed @ Epic Games",
     "url": "https://www.ozbargain.com.au/node/980014",
     "votes_neg": 0,
-    "votes_pos": 71
+    "votes_pos": 110
    },
    "first_seen": "2026-10-29T23:57:51+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
-  },
-  "980015": {
-   "category_slug": "gaming",
-   "deal": {
-    "category": "Gaming",
-    "comments": 0,
-    "expires_at": null,
-    "flagged_expired": false,
-    "id": "980015",
-    "image": "https://files.ozbargain.com.au/n/15/980015l.jpg?h=5ff71c4b",
-    "long_running": false,
-    "posted_at": "2026-10-23T01:25:00+11:00",
-    "price": {
-     "amount": 0.0,
-     "discount_pct": null,
-     "is_free": true,
-     "unit": null,
-     "was": null
-    },
-    "products": [
-     "home-a-unique-horror-adventure"
-    ],
-    "starts_at": null,
-    "tags": [
-     "Android App",
-     "Android Game",
-     "BancyCo",
-     "Epic App Store Game",
-     "Home - A Unique Horror Adventure",
-     "Video Game"
-    ],
-    "title": "[Android, Epic] Free - Home - A Unique Horror Adventure @ Epic Games",
-    "url": "https://www.ozbargain.com.au/node/980015",
-    "votes_neg": 0,
-    "votes_pos": 87
-   },
-   "first_seen": "2026-10-23T23:10:33+00:00",
-   "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980031": {
    "category_slug": "computing",
    "deal": {
     "category": "Computing",
-    "comments": 49,
+    "comments": 58,
     "expires_at": null,
     "flagged_expired": false,
     "id": "980031",
@@ -2842,7 +2627,7 @@
    },
    "first_seen": "2026-10-23T23:10:33+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980032": {
    "category_slug": "gaming",
@@ -2879,13 +2664,13 @@
    },
    "first_seen": "2026-10-23T23:10:33+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980043": {
    "category_slug": "mobile",
    "deal": {
     "category": "Mobile",
-    "comments": 170,
+    "comments": 172,
     "expires_at": "2026-11-23T00:00:00+11:00",
     "flagged_expired": false,
     "id": "980043",
@@ -2914,13 +2699,13 @@
    },
    "first_seen": "2026-10-23T23:10:33+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980075": {
    "category_slug": "travel",
    "deal": {
     "category": "Travel",
-    "comments": 140,
+    "comments": 141,
     "expires_at": "2026-11-11T00:00:00+11:00",
     "flagged_expired": false,
     "id": "980075",
@@ -2942,11 +2727,11 @@
     "title": "10 Days China Tour from SYD/MEL $999 Per Person Twin Share ($670 Solo Surcharge) + 5,994 Qantas Points @ TripADeal",
     "url": "https://www.ozbargain.com.au/node/980075",
     "votes_neg": 1,
-    "votes_pos": 139
+    "votes_pos": 142
    },
    "first_seen": "2026-10-23T23:10:33+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980117": {
    "category_slug": "internet",
@@ -2981,13 +2766,13 @@
    },
    "first_seen": "2026-10-23T23:10:33+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980157": {
    "category_slug": "mobile",
    "deal": {
     "category": "Mobile",
-    "comments": 45,
+    "comments": 46,
     "expires_at": "2026-11-11T00:00:00+11:00",
     "flagged_expired": false,
     "id": "980157",
@@ -3022,7 +2807,7 @@
     "previous_low_date": "2026-10-12T07:21:32+00:00",
     "status": "above_low"
    },
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980169": {
    "category_slug": "gaming",
@@ -3060,7 +2845,7 @@
    },
    "first_seen": "2026-10-29T00:01:00+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980185": {
    "category_slug": "travel",
@@ -3093,7 +2878,7 @@
    },
    "first_seen": "2026-10-24T22:30:20+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980215": {
    "category_slug": "entertainment",
@@ -3127,7 +2912,7 @@
    },
    "first_seen": "2026-10-25T22:35:19+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980236": {
    "category_slug": "gaming",
@@ -3161,11 +2946,11 @@
     "title": "[PC, Epic] Free - MAFIA HOTEL @ Epic Games",
     "url": "https://www.ozbargain.com.au/node/980236",
     "votes_neg": 0,
-    "votes_pos": 180
+    "votes_pos": 185
    },
    "first_seen": "2026-10-24T22:30:20+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980242": {
    "category_slug": "computing",
@@ -3201,13 +2986,13 @@
    },
    "first_seen": "2026-10-25T22:35:19+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980249": {
    "category_slug": "internet",
    "deal": {
     "category": "Internet",
-    "comments": 93,
+    "comments": 95,
     "expires_at": "2026-12-01T00:00:00+11:00",
     "flagged_expired": false,
     "id": "980249",
@@ -3235,7 +3020,7 @@
    },
    "first_seen": "2026-10-25T22:35:19+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980288": {
    "category_slug": "electrical-electronics",
@@ -3269,7 +3054,7 @@
    },
    "first_seen": "2026-10-26T23:55:51+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980289": {
    "category_slug": "entertainment",
@@ -3306,7 +3091,7 @@
    },
    "first_seen": "2026-10-25T22:35:19+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980330": {
    "category_slug": "gaming",
@@ -3340,17 +3125,17 @@
     "title": "[PS5] Final Fantasy Resonance $69 + $10 Delivery ($0 C&C/ in-Store) @ BIG W",
     "url": "https://www.ozbargain.com.au/node/980330",
     "votes_neg": 0,
-    "votes_pos": 47
+    "votes_pos": 48
    },
    "first_seen": "2026-10-25T22:35:19+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980347": {
    "category_slug": "internet",
    "deal": {
     "category": "Internet",
-    "comments": 140,
+    "comments": 141,
     "expires_at": "2026-11-01T00:00:00+11:00",
     "flagged_expired": false,
     "id": "980347",
@@ -3373,17 +3158,17 @@
     "title": "nbn 25/10 $30/M, 50/20 $45/M, 500/50 $50/M, 750/50 $60/M, 1000/100 $70/M for 6 Months (New Customers) @ amaysim",
     "url": "https://www.ozbargain.com.au/node/980347",
     "votes_neg": 0,
-    "votes_pos": 161
+    "votes_pos": 162
    },
    "first_seen": "2026-10-26T23:55:51+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980356": {
    "category_slug": "computing",
    "deal": {
     "category": "Computing",
-    "comments": 141,
+    "comments": 155,
     "expires_at": "2026-11-16T00:00:00+11:00",
     "flagged_expired": false,
     "id": "980356",
@@ -3405,11 +3190,11 @@
     "title": "$50 off Voucher (No Minimum Spend), Free Standard Delivery until 31 Oct ($0 NSW C&C) @ Mwave",
     "url": "https://www.ozbargain.com.au/node/980356",
     "votes_neg": 1,
-    "votes_pos": 153
+    "votes_pos": 156
    },
    "first_seen": "2026-10-26T23:55:51+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980372": {
    "category_slug": "computing",
@@ -3451,7 +3236,7 @@
     "previous_low_date": "2026-10-22T23:25:01+00:00",
     "status": "above_low"
    },
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980439": {
    "category_slug": "entertainment",
@@ -3485,7 +3270,7 @@
    },
    "first_seen": "2026-10-26T23:55:51+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980453": {
    "category_slug": "computing",
@@ -3519,7 +3304,7 @@
     "title": "Apple 2026 MacBook Air (15-Inch, M5 10-Core, 16GB RAM, 512GB SSD) Midnight/Silver/Blue $2,047 (RRP $2,499) Delivered @ Amazon AU",
     "url": "https://www.ozbargain.com.au/node/980453",
     "votes_neg": 0,
-    "votes_pos": 60
+    "votes_pos": 61
    },
    "first_seen": "2026-10-26T23:55:51+00:00",
    "history": {
@@ -3527,7 +3312,7 @@
     "previous_low_date": "2026-10-21T23:22:46+00:00",
     "status": "above_low"
    },
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980481": {
    "category_slug": "mobile",
@@ -3567,7 +3352,7 @@
     "previous_low_date": "2026-10-14T23:16:22+00:00",
     "status": "matches_low"
    },
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980491": {
    "category_slug": "gaming",
@@ -3603,13 +3388,13 @@
    },
    "first_seen": "2026-10-27T23:47:51+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980507": {
    "category_slug": "gaming",
    "deal": {
     "category": "Gaming",
-    "comments": 33,
+    "comments": 34,
     "expires_at": null,
     "flagged_expired": false,
     "id": "980507",
@@ -3638,11 +3423,11 @@
     "title": "SanDisk 256GB MicroSD Express Card for Nintendo Switch 2 $59 ($49 after $10 Newsletter Sign-up Code) + Delivery ($0 C&C) @Target",
     "url": "https://www.ozbargain.com.au/node/980507",
     "votes_neg": 0,
-    "votes_pos": 64
+    "votes_pos": 65
    },
    "first_seen": "2026-10-27T23:47:51+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980518": {
    "category_slug": "computing",
@@ -3680,13 +3465,13 @@
    },
    "first_seen": "2026-10-27T23:47:51+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980526": {
    "category_slug": "computing",
    "deal": {
     "category": "Computing",
-    "comments": 38,
+    "comments": 39,
     "expires_at": "2026-11-23T00:00:00+11:00",
     "flagged_expired": false,
     "id": "980526",
@@ -3723,95 +3508,13 @@
    },
    "first_seen": "2026-10-27T23:47:51+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
-  },
-  "980547": {
-   "category_slug": "electrical-electronics",
-   "deal": {
-    "category": "Electrical & Electronics",
-    "comments": 36,
-    "expires_at": "2026-10-31T00:00:00+11:00",
-    "flagged_expired": false,
-    "id": "980547",
-    "image": "https://files.ozbargain.com.au/n/47/980547l.jpg?h=6210ca0d",
-    "long_running": false,
-    "posted_at": "2026-10-27T15:26:52+11:00",
-    "price": {
-     "amount": 55.99,
-     "discount_pct": null,
-     "is_free": false,
-     "unit": null,
-     "was": null
-    },
-    "products": [
-     "wolfbox-mf60"
-    ],
-    "starts_at": null,
-    "tags": [
-     "Air Duster",
-     "Wolfbox",
-     "Wolfbox MF60"
-    ],
-    "title": "Wolfbox Electric Air Duster DF60 (2 Pack) $55.99 Delivered @ Wolfbox eBay",
-    "url": "https://www.ozbargain.com.au/node/980547",
-    "votes_neg": 0,
-    "votes_pos": 122
-   },
-   "first_seen": "2026-10-27T23:47:51+00:00",
-   "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
-  },
-  "980585": {
-   "category_slug": "electrical-electronics",
-   "deal": {
-    "category": "Electrical & Electronics",
-    "comments": 54,
-    "expires_at": "2026-10-30T17:59:00+11:00",
-    "flagged_expired": false,
-    "id": "980585",
-    "image": "https://files.ozbargain.com.au/n/85/980585l.jpg?h=7fa72378",
-    "long_running": false,
-    "posted_at": "2026-10-27T18:46:41+11:00",
-    "price": {
-     "amount": 4.95,
-     "discount_pct": null,
-     "is_free": false,
-     "unit": null,
-     "was": null
-    },
-    "products": [
-     "blueant-pump-air-lite-2",
-     "cygnett-cy4367pbche"
-    ],
-    "starts_at": null,
-    "tags": [
-     "5000mAh",
-     "BlueAnt",
-     "BlueAnt Pump Air Lite 2",
-     "Bluetooth Earphones",
-     "Cygnett",
-     "Cygnett CY4367PBCHE",
-     "Earphones",
-     "Hand Tool",
-     "Multi-Tool",
-     "Power Bank",
-     "Power Delivery Charger",
-     "USB Charger"
-    ],
-    "title": "Cygnett 5000mAh Power Bank $4.95, Daxys Bike Multifunction Tool $4.99, Blueant Pump Air Lite 2 $20 + More Delivered @ Mobileciti",
-    "url": "https://www.ozbargain.com.au/node/980585",
-    "votes_neg": 0,
-    "votes_pos": 146
-   },
-   "first_seen": "2026-10-27T23:47:51+00:00",
-   "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980596": {
    "category_slug": "internet",
    "deal": {
     "category": "Internet",
-    "comments": 56,
+    "comments": 60,
     "expires_at": null,
     "flagged_expired": false,
     "id": "980596",
@@ -3834,11 +3537,11 @@
     "title": "Unlimited Easynews + Unlimited Tweaknews US$25.05 (~A$35.66) for 15 Months @ Newshosting",
     "url": "https://www.ozbargain.com.au/node/980596",
     "votes_neg": 0,
-    "votes_pos": 66
+    "votes_pos": 68
    },
    "first_seen": "2026-10-27T23:47:51+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980631": {
    "category_slug": "electrical-electronics",
@@ -3874,13 +3577,13 @@
    },
    "first_seen": "2026-10-27T23:47:51+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980663": {
    "category_slug": "electrical-electronics",
    "deal": {
     "category": "Electrical & Electronics",
-    "comments": 42,
+    "comments": 43,
     "expires_at": null,
     "flagged_expired": false,
     "id": "980663",
@@ -3906,7 +3609,7 @@
     "title": "Amazon Fire TV Stick 4K Select (2025) $39 + Delivery ($0 OnePass/ C&C/ in-Store) @ Bunnings",
     "url": "https://www.ozbargain.com.au/node/980663",
     "votes_neg": 0,
-    "votes_pos": 46
+    "votes_pos": 48
    },
    "first_seen": "2026-10-29T00:01:00+00:00",
    "history": {
@@ -3914,13 +3617,13 @@
     "previous_low_date": "2026-10-27T23:47:51+00:00",
     "status": "matches_low"
    },
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980702": {
    "category_slug": "computing",
    "deal": {
     "category": "Computing",
-    "comments": 31,
+    "comments": 35,
     "expires_at": "2026-11-04T11:00:00+11:00",
     "flagged_expired": false,
     "id": "980702",
@@ -3950,17 +3653,17 @@
     "title": "Samsung Odyssey OLED G7 G73SH 32\" 4K 165Hz / FHD 330Hz Dual Mode Gaming Monitor $759 + Delivery ($0 C&C) @ Centre Com",
     "url": "https://www.ozbargain.com.au/node/980702",
     "votes_neg": 0,
-    "votes_pos": 66
+    "votes_pos": 67
    },
    "first_seen": "2026-10-29T00:01:00+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980718": {
    "category_slug": "entertainment",
    "deal": {
     "category": "Entertainment",
-    "comments": 118,
+    "comments": 124,
     "expires_at": null,
     "flagged_expired": false,
     "id": "980718",
@@ -3984,17 +3687,17 @@
     "title": "[SUBS, Prime] Ali G: Who Iz I? (2026) - Movie Streaming @ Prime Video",
     "url": "https://www.ozbargain.com.au/node/980718",
     "votes_neg": 0,
-    "votes_pos": 163
+    "votes_pos": 165
    },
    "first_seen": "2026-10-29T00:01:00+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980746": {
    "category_slug": "computing",
    "deal": {
     "category": "Computing",
-    "comments": 167,
+    "comments": 177,
     "expires_at": "2027-01-01T00:00:00+11:00",
     "flagged_expired": false,
     "id": "980746",
@@ -4023,17 +3726,17 @@
     "title": "Ubiquiti UniFi Dream Wall All In One Internet Gateway $499 (Was $1889) + Delivery ($0 to Metro Areas/ C&C/ in-Store) @ Scorptec",
     "url": "https://www.ozbargain.com.au/node/980746",
     "votes_neg": 0,
-    "votes_pos": 234
+    "votes_pos": 244
    },
    "first_seen": "2026-10-29T00:01:00+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980749": {
    "category_slug": "computing",
    "deal": {
     "category": "Computing",
-    "comments": 51,
+    "comments": 52,
     "expires_at": null,
     "flagged_expired": false,
     "id": "980749",
@@ -4057,11 +3760,49 @@
     "title": "[Windows] Ashampoo Burning Studio 2027, Lifetime License $0 (Normally $30) @ Ashampoo",
     "url": "https://www.ozbargain.com.au/node/980749",
     "votes_neg": 0,
-    "votes_pos": 87
+    "votes_pos": 90
    },
    "first_seen": "2026-10-29T00:01:00+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
+  },
+  "980751": {
+   "category_slug": "gaming",
+   "deal": {
+    "category": "Gaming",
+    "comments": 0,
+    "expires_at": "2026-11-03T05:00:00+11:00",
+    "flagged_expired": false,
+    "id": "980751",
+    "image": "https://files.ozbargain.com.au/n/51/980751l.jpg?h=87092ddf",
+    "long_running": false,
+    "posted_at": "2026-10-28T23:44:04+11:00",
+    "price": {
+     "amount": 0.0,
+     "discount_pct": null,
+     "is_free": true,
+     "unit": null,
+     "was": null
+    },
+    "products": [
+     "asleep-act-1"
+    ],
+    "starts_at": "2026-10-31T05:00:00+11:00",
+    "tags": [
+     "Asleep: Act 1",
+     "CriticalLeap",
+     "PC Game",
+     "Steam Game",
+     "Video Game"
+    ],
+    "title": "[PC, Steam] Free - Asleep: Act 1 @ Steam",
+    "url": "https://www.ozbargain.com.au/node/980751",
+    "votes_neg": 0,
+    "votes_pos": 51
+   },
+   "first_seen": "2026-10-30T23:49:56+00:00",
+   "history": null,
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980758": {
    "category_slug": "entertainment",
@@ -4094,17 +3835,17 @@
     "title": "[SUBS, Prime] Harry Potter 1-8, Fantastic Beasts 1-3 - Movies Streaming @ Prime Video",
     "url": "https://www.ozbargain.com.au/node/980758",
     "votes_neg": 0,
-    "votes_pos": 68
+    "votes_pos": 69
    },
    "first_seen": "2026-10-29T00:01:00+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980762": {
    "category_slug": "mobile",
    "deal": {
     "category": "Mobile",
-    "comments": 129,
+    "comments": 136,
     "expires_at": "2026-11-10T00:00:00+11:00",
     "flagged_expired": false,
     "id": "980762",
@@ -4137,17 +3878,17 @@
     "title": "Bonus Nintendo Switch 2 Console with Purchase of Google Pixel 11 Pro $1849 / 11 Pro XL $2099 + Del ($0 C&C/ in-Store) @ JB Hi-Fi",
     "url": "https://www.ozbargain.com.au/node/980762",
     "votes_neg": 0,
-    "votes_pos": 223
+    "votes_pos": 233
    },
    "first_seen": "2026-10-29T00:01:00+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980774": {
    "category_slug": "electrical-electronics",
    "deal": {
     "category": "Electrical & Electronics",
-    "comments": 43,
+    "comments": 45,
     "expires_at": "2026-11-03T00:00:00+11:00",
     "flagged_expired": false,
     "id": "980774",
@@ -4174,11 +3915,11 @@
     "title": "Nitecore NB10000 GEN4 Ultralight Power Bank $71.20 Delivered @ Ultralight Gear",
     "url": "https://www.ozbargain.com.au/node/980774",
     "votes_neg": 0,
-    "votes_pos": 47
+    "votes_pos": 51
    },
    "first_seen": "2026-10-29T23:57:51+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980785": {
    "category_slug": "computing",
@@ -4216,13 +3957,13 @@
    },
    "first_seen": "2026-10-29T23:57:51+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980794": {
    "category_slug": "gaming",
    "deal": {
     "category": "Gaming",
-    "comments": 37,
+    "comments": 41,
     "expires_at": null,
     "flagged_expired": false,
     "id": "980794",
@@ -4253,13 +3994,13 @@
    },
    "first_seen": "2026-10-29T23:57:51+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980812": {
    "category_slug": "mobile",
    "deal": {
     "category": "Mobile",
-    "comments": 47,
+    "comments": 60,
     "expires_at": "2026-11-16T00:00:00+11:00",
     "flagged_expired": false,
     "id": "980812",
@@ -4285,7 +4026,7 @@
     "title": "Apple iPhone 17 Pro Max 256GB $1799.99 Delivered @ Costco Wholesale (Membership Required)",
     "url": "https://www.ozbargain.com.au/node/980812",
     "votes_neg": 0,
-    "votes_pos": 53
+    "votes_pos": 58
    },
    "first_seen": "2026-10-29T23:57:51+00:00",
    "history": {
@@ -4293,13 +4034,13 @@
     "previous_low_date": "2026-10-14T23:16:22+00:00",
     "status": "new_low"
    },
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980818": {
    "category_slug": "computing",
    "deal": {
     "category": "Computing",
-    "comments": 204,
+    "comments": 213,
     "expires_at": null,
     "flagged_expired": false,
     "id": "980818",
@@ -4326,17 +4067,17 @@
     "title": "[Back Order] Mac Studio: M5 Ultra 36C CPU, 80C GPU, 512GB RAM from $31489 for 1TB SSD Model Delivered @ Apple Education",
     "url": "https://www.ozbargain.com.au/node/980818",
     "votes_neg": 1,
-    "votes_pos": 200
+    "votes_pos": 212
    },
    "first_seen": "2026-10-29T23:57:51+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980823": {
    "category_slug": "electrical-electronics",
    "deal": {
     "category": "Electrical & Electronics",
-    "comments": 18,
+    "comments": 20,
     "expires_at": null,
     "flagged_expired": false,
     "id": "980823",
@@ -4366,17 +4107,17 @@
     "title": "Contempo Textured Steel Kettle 1.7L $12, 4 Slice Toaster $19, Digital Coffee Machine $79, Milk Frother+Grinder $19 + More @ BigW",
     "url": "https://www.ozbargain.com.au/node/980823",
     "votes_neg": 0,
-    "votes_pos": 37
+    "votes_pos": 43
    },
    "first_seen": "2026-10-29T23:57:51+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980830": {
    "category_slug": "computing",
    "deal": {
     "category": "Computing",
-    "comments": 36,
+    "comments": 41,
     "expires_at": null,
     "flagged_expired": false,
     "id": "980830",
@@ -4403,17 +4144,17 @@
     "title": "[Used] IdeaPad 5x 2-in-1 Snapdragon X 14\" OLED Touch Laptop (Scratch N Dent) 16GB RAM, 512GB SSD $687.04 Shipped @ Lenovo Outlet",
     "url": "https://www.ozbargain.com.au/node/980830",
     "votes_neg": 0,
-    "votes_pos": 34
+    "votes_pos": 40
    },
    "first_seen": "2026-10-29T23:57:51+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980866": {
    "category_slug": "computing",
    "deal": {
     "category": "Computing",
-    "comments": 127,
+    "comments": 142,
     "expires_at": null,
     "flagged_expired": false,
     "id": "980866",
@@ -4427,25 +4168,30 @@
      "unit": null,
      "was": null
     },
-    "products": [],
+    "products": [
+     "microsoft-surface-laptop-ultra"
+    ],
     "starts_at": null,
     "tags": [
+     "Computer",
+     "Laptop",
+     "Microsoft",
      "Microsoft Surface Laptop Ultra"
     ],
-    "title": "Microsoft Surface Laptop Ultra, 128GB Unified Memory (Nvidia RTX Spark N1X) $9,166.55 Delivered @ Microsoft Store (Education)",
+    "title": "Microsoft Surface Laptop Ultra, 128GB RAM, Nvidia RTX Spark N1X 6144C GPU, 1TB $9,166.55 Delivered @ Microsoft Store (Education)",
     "url": "https://www.ozbargain.com.au/node/980866",
     "votes_neg": 0,
-    "votes_pos": 77
+    "votes_pos": 83
    },
    "first_seen": "2026-10-29T23:57:51+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980876": {
    "category_slug": "travel",
    "deal": {
     "category": "Travel",
-    "comments": 8,
+    "comments": 13,
     "expires_at": null,
     "flagged_expired": false,
     "id": "980876",
@@ -4462,65 +4208,95 @@
     "products": [],
     "starts_at": null,
     "tags": [
-     "Airfare",
-     "Singapore Airlines",
-     "South Australia"
+     "Airfare"
     ],
-    "title": "Singapore Air to Singapore Rtn: PER $522, DRW $530, BNE $685, ADL $692, MEL $710, CNS $719, SYD $753 & More (Nov-Sep) @ BTF",
+    "title": "Singapore Air to Singapore Rtn: PER $522, DRW $530, BNE $685, CNS $719, SYD $753 & More (Nov-Sep) @ BTF",
     "url": "https://www.ozbargain.com.au/node/980876",
     "votes_neg": 0,
-    "votes_pos": 53
+    "votes_pos": 65
    },
    "first_seen": "2026-10-29T23:57:51+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
-  "980884": {
-   "category_slug": "mobile",
+  "980877": {
+   "category_slug": "electrical-electronics",
    "deal": {
-    "category": "Mobile",
-    "comments": 114,
-    "expires_at": "2026-12-03T00:00:00+11:00",
+    "category": "Electrical & Electronics",
+    "comments": 63,
+    "expires_at": null,
     "flagged_expired": false,
-    "id": "980884",
-    "image": "https://files.ozbargain.com.au/n/84/980884l.jpg?h=3281a4ac",
+    "id": "980877",
+    "image": "https://files.ozbargain.com.au/n/77/980877l.jpg?h=d3375214",
     "long_running": false,
-    "posted_at": "2026-10-29T23:38:35+11:00",
+    "posted_at": "2026-10-29T21:13:35+11:00",
     "price": {
-     "amount": 486.81,
-     "discount_pct": 58,
+     "amount": 99.0,
+     "discount_pct": null,
      "is_free": false,
      "unit": null,
-     "was": 1149.0
+     "was": null
     },
     "products": [
-     "samsung-galaxy-s26-fe"
+     "tp-link-tapo-c410-kit"
     ],
     "starts_at": null,
     "tags": [
-     "Mobile",
-     "Samsung",
-     "Samsung Galaxy S26 FE",
-     "Android"
+     "Security Camera",
+     "TP-Link",
+     "TP-Link Tapo C410 KIT"
     ],
-    "title": "Samsung Galaxy S26 FE 8GB RAM/128GB Storage $486.81 (with Loyalty Voucher, RRP $1149) Delivered @ Samsung EPP",
-    "url": "https://www.ozbargain.com.au/node/980884",
+    "title": "TP-Link Tapo C410 Solar-Powered Security Camera Kit 2-Pack $99 Delivered @ Amazon AU",
+    "url": "https://www.ozbargain.com.au/node/980877",
     "votes_neg": 0,
-    "votes_pos": 241
+    "votes_pos": 91
    },
-   "first_seen": "2026-10-29T23:57:51+00:00",
-   "history": {
-    "previous_low": 539.4,
-    "previous_low_date": "2026-10-29T23:57:51+00:00",
-    "status": "new_low"
+   "first_seen": "2026-10-30T23:49:56+00:00",
+   "history": null,
+   "last_seen": "2026-10-30T23:49:56+00:00"
+  },
+  "980889": {
+   "category_slug": "gaming",
+   "deal": {
+    "category": "Gaming",
+    "comments": 22,
+    "expires_at": null,
+    "flagged_expired": false,
+    "id": "980889",
+    "image": "https://files.ozbargain.com.au/n/89/980889l.jpg?h=164807fd",
+    "long_running": false,
+    "posted_at": "2026-10-30T00:52:54+11:00",
+    "price": {
+     "amount": 99.0,
+     "discount_pct": 27,
+     "is_free": false,
+     "unit": null,
+     "was": 134.95
+    },
+    "products": [
+     "dualsense"
+    ],
+    "starts_at": "2026-10-29T00:00:00+11:00",
+    "tags": [
+     "DualSense",
+     "Game Controller",
+     "PS5 Accessory",
+     "Sony"
+    ],
+    "title": "DualSense Wireless Controller - PlayStation 5 - All Colours $99 (RRP $134.95) Delivered @ Amazon AU",
+    "url": "https://www.ozbargain.com.au/node/980889",
+    "votes_neg": 0,
+    "votes_pos": 38
    },
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "first_seen": "2026-10-30T23:49:56+00:00",
+   "history": null,
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980895": {
    "category_slug": "gaming",
    "deal": {
     "category": "Gaming",
-    "comments": 3,
+    "comments": 6,
     "expires_at": "2026-11-06T03:00:00+11:00",
     "flagged_expired": false,
     "id": "980895",
@@ -4545,17 +4321,17 @@
     "title": "[Android, Epic] Free - Galaxy Kart @ Epic Games",
     "url": "https://www.ozbargain.com.au/node/980895",
     "votes_neg": 0,
-    "votes_pos": 72
+    "votes_pos": 133
    },
    "first_seen": "2026-10-29T23:57:51+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980897": {
    "category_slug": "gaming",
    "deal": {
     "category": "Gaming",
-    "comments": 1,
+    "comments": 2,
     "expires_at": "2026-11-01T04:00:00+11:00",
     "flagged_expired": false,
     "id": "980897",
@@ -4569,10 +4345,14 @@
      "unit": null,
      "was": null
     },
-    "products": [],
+    "products": [
+     "hexologic"
+    ],
     "starts_at": null,
     "tags": [
+     "Hexologic",
      "Linux Game",
+     "MythicOwl",
      "PC Game",
      "Steam Game",
      "Video Game"
@@ -4580,54 +4360,17 @@
     "title": "[PC, Linux, Steam] Free - Hexologic @ Steam",
     "url": "https://www.ozbargain.com.au/node/980897",
     "votes_neg": 0,
-    "votes_pos": 77
+    "votes_pos": 154
    },
    "first_seen": "2026-10-29T23:57:51+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
-  },
-  "980902": {
-   "category_slug": "mobile",
-   "deal": {
-    "category": "Mobile",
-    "comments": 20,
-    "expires_at": "2026-11-11T00:00:00+11:00",
-    "flagged_expired": false,
-    "id": "980902",
-    "image": "https://files.ozbargain.com.au/n/02/980902l.jpg?h=15bc63bc",
-    "long_running": false,
-    "posted_at": "2026-10-30T07:45:39+11:00",
-    "price": {
-     "amount": 539.4,
-     "discount_pct": 53,
-     "is_free": false,
-     "unit": null,
-     "was": 1149.0
-    },
-    "products": [
-     "samsung-galaxy-s26-fe"
-    ],
-    "starts_at": "2026-10-30T00:00:00+11:00",
-    "tags": [
-     "Mobile",
-     "Samsung",
-     "Samsung Galaxy S26 FE",
-     "Android"
-    ],
-    "title": "Samsung Galaxy S26 FE 8GB RAM/128GB Storage $539.40 (RRP $1149) Delivered @ Samsung NAB Goodies/CBA Yello Store",
-    "url": "https://www.ozbargain.com.au/node/980902",
-    "votes_neg": 0,
-    "votes_pos": 39
-   },
-   "first_seen": "2026-10-29T23:57:51+00:00",
-   "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
   },
   "980906": {
    "category_slug": "computing",
    "deal": {
     "category": "Computing",
-    "comments": 16,
+    "comments": 40,
     "expires_at": "2026-12-01T08:00:00+11:00",
     "flagged_expired": false,
     "id": "980906",
@@ -4657,14 +4400,191 @@
     "title": "Philips Evnia 27M2N3500PF 27\" QHD Fast IPS 260Hz $179 + Delivery ($0 C&C/ in-Store) @ Centre Com",
     "url": "https://www.ozbargain.com.au/node/980906",
     "votes_neg": 0,
-    "votes_pos": 33
+    "votes_pos": 71
    },
    "first_seen": "2026-10-29T23:57:51+00:00",
    "history": null,
-   "last_seen": "2026-10-29T23:57:51+00:00"
+   "last_seen": "2026-10-30T23:49:56+00:00"
+  },
+  "980936": {
+   "category_slug": "computing",
+   "deal": {
+    "category": "Computing",
+    "comments": 41,
+    "expires_at": "2026-12-01T00:00:00+11:00",
+    "flagged_expired": false,
+    "id": "980936",
+    "image": "https://files.ozbargain.com.au/n/36/980936l.jpg?h=1d36e9ff",
+    "long_running": false,
+    "posted_at": "2026-10-30T12:26:35+11:00",
+    "price": {
+     "amount": 4565.0,
+     "discount_pct": null,
+     "is_free": false,
+     "unit": null,
+     "was": null
+    },
+    "products": [],
+    "starts_at": "2026-10-30T00:00:00+11:00",
+    "tags": [
+     "Computer",
+     "Desktop Computer"
+    ],
+    "title": "Gaming PC: RTX5080, AMD 7800X3D, 32GB CL30 RAM, 1TB G4 SSD, B850, 850W PLAT PSU $4565 + Del ($0 Headset with VIC C&C) @ Evatech",
+    "url": "https://www.ozbargain.com.au/node/980936",
+    "votes_neg": 0,
+    "votes_pos": 50
+   },
+   "first_seen": "2026-10-30T23:49:56+00:00",
+   "history": null,
+   "last_seen": "2026-10-30T23:49:56+00:00"
+  },
+  "980967": {
+   "category_slug": "gaming",
+   "deal": {
+    "category": "Gaming",
+    "comments": 34,
+    "expires_at": "2026-11-05T00:00:00+11:00",
+    "flagged_expired": false,
+    "id": "980967",
+    "image": "https://files.ozbargain.com.au/n/67/980967l.jpg?h=55918106",
+    "long_running": false,
+    "posted_at": "2026-10-30T15:36:21+11:00",
+    "price": {
+     "amount": null,
+     "discount_pct": null,
+     "is_free": false,
+     "unit": null,
+     "was": null
+    },
+    "products": [],
+    "starts_at": "2026-10-30T00:00:00+11:00",
+    "tags": [
+     "Football Manager 2027"
+    ],
+    "title": "[PC, Steam, Epic, Microsoft Store, and Xbox/PC Game Pass] Football Manager 2027 - Play for Free",
+    "url": "https://www.ozbargain.com.au/node/980967",
+    "votes_neg": 0,
+    "votes_pos": 53
+   },
+   "first_seen": "2026-10-30T23:49:56+00:00",
+   "history": null,
+   "last_seen": "2026-10-30T23:49:56+00:00"
+  },
+  "980999": {
+   "category_slug": "gaming",
+   "deal": {
+    "category": "Gaming",
+    "comments": 68,
+    "expires_at": null,
+    "flagged_expired": false,
+    "id": "980999",
+    "image": "https://files.ozbargain.com.au/n/99/980999l.jpg?h=92fd91b1",
+    "long_running": false,
+    "posted_at": "2026-10-30T20:27:08+11:00",
+    "price": {
+     "amount": 949.0,
+     "discount_pct": null,
+     "is_free": false,
+     "unit": null,
+     "was": null
+    },
+    "products": [
+     "xbox-series-x"
+    ],
+    "starts_at": null,
+    "tags": [
+     "Game Console",
+     "Microsoft",
+     "Xbox Series X"
+    ],
+    "title": "Xbox Series X Console 1TB SSD Disc $949 Delivered / C&C / In-Store @ Target",
+    "url": "https://www.ozbargain.com.au/node/980999",
+    "votes_neg": 0,
+    "votes_pos": 53
+   },
+   "first_seen": "2026-10-30T23:49:56+00:00",
+   "history": null,
+   "last_seen": "2026-10-30T23:49:56+00:00"
+  },
+  "981019": {
+   "category_slug": "gaming",
+   "deal": {
+    "category": "Gaming",
+    "comments": 3,
+    "expires_at": "2026-11-03T01:00:00+11:00",
+    "flagged_expired": false,
+    "id": "981019",
+    "image": "https://files.ozbargain.com.au/n/19/981019.jpg?h=ea6ad6be",
+    "long_running": false,
+    "posted_at": "2026-10-31T01:01:28+11:00",
+    "price": {
+     "amount": 0.0,
+     "discount_pct": null,
+     "is_free": true,
+     "unit": null,
+     "was": null
+    },
+    "products": [],
+    "starts_at": null,
+    "tags": [
+     "Daedalic Entertainment",
+     "PC Game",
+     "Video Game"
+    ],
+    "title": "[PC] Free -  A New Beginning: Final Cut  @ GOG",
+    "url": "https://www.ozbargain.com.au/node/981019",
+    "votes_neg": 0,
+    "votes_pos": 111
+   },
+   "first_seen": "2026-10-30T23:49:56+00:00",
+   "history": null,
+   "last_seen": "2026-10-30T23:49:56+00:00"
+  },
+  "981023": {
+   "category_slug": "mobile",
+   "deal": {
+    "category": "Mobile",
+    "comments": 26,
+    "expires_at": "2026-10-31T23:59:00+11:00",
+    "flagged_expired": false,
+    "id": "981023",
+    "image": "https://files.ozbargain.com.au/n/23/981023l.jpg?h=e1ea34a2",
+    "long_running": false,
+    "posted_at": "2026-10-31T03:10:02+11:00",
+    "price": {
+     "amount": 320.0,
+     "discount_pct": null,
+     "is_free": false,
+     "unit": null,
+     "was": null
+    },
+    "products": [
+     "amaysim-320-starter-pack"
+    ],
+    "starts_at": null,
+    "tags": [
+     "amaysim",
+     "amaysim $320 Starter Pack",
+     "Cashback",
+     "Prepaid Mobile Plan",
+     "SIM Card"
+    ],
+    "title": "$82 Cashback on amaysim $320 240GB 365-Day Plan (Now $199) @ TopCashback AU",
+    "url": "https://www.ozbargain.com.au/node/981023",
+    "votes_neg": 0,
+    "votes_pos": 55
+   },
+   "first_seen": "2026-10-30T23:49:56+00:00",
+   "history": {
+    "previous_low": 199.0,
+    "previous_low_date": "2026-10-12T07:21:32+00:00",
+    "status": "above_low"
+   },
+   "last_seen": "2026-10-30T23:49:56+00:00"
   }
  },
- "last_run": "2026-10-29T23:57:51+00:00",
+ "last_run": "2026-10-30T23:49:56+00:00",
  "price_history": {
   "007-first-light": {
    "date": "2026-10-16T22:52:46+00:00",
@@ -4730,6 +4650,12 @@
    "date": "2026-10-13T02:02:10+00:00",
    "deal_id": "978754",
    "low": 49.0,
+   "unit": null
+  },
+  "asleep-act-1": {
+   "date": "2026-10-30T23:49:56+00:00",
+   "deal_id": "980751",
+   "low": 0.0,
    "unit": null
   },
   "asus-prime-b850-plus-csm": {
@@ -4870,6 +4796,12 @@
    "low": 178.0,
    "unit": null
   },
+  "dualsense": {
+   "date": "2026-10-30T23:49:56+00:00",
+   "deal_id": "980889",
+   "low": 99.0,
+   "unit": null
+  },
   "dyson-v10-2022-": {
    "date": "2026-10-14T23:16:22+00:00",
    "deal_id": "978932",
@@ -4904,6 +4836,12 @@
    "date": "2026-10-15T23:05:41+00:00",
    "deal_id": "977541",
    "low": 1.0,
+   "unit": null
+  },
+  "hexologic": {
+   "date": "2026-10-30T23:49:56+00:00",
+   "deal_id": "980897",
+   "low": 0.0,
    "unit": null
   },
   "hisense-px3": {
@@ -5054,6 +4992,12 @@
    "date": "2026-10-12T07:21:32+00:00",
    "deal_id": "978314",
    "low": 0.0,
+   "unit": null
+  },
+  "microsoft-surface-laptop-ultra": {
+   "date": "2026-10-30T23:49:56+00:00",
+   "deal_id": "980866",
+   "low": 9166.55,
    "unit": null
   },
   "minecraft": {
@@ -5284,6 +5228,12 @@
    "low": 19.99,
    "unit": null
   },
+  "tp-link-tapo-c410-kit": {
+   "date": "2026-10-30T23:49:56+00:00",
+   "deal_id": "980877",
+   "low": 99.0,
+   "unit": null
+  },
   "ubiquiti-unifi-dream-wall": {
    "date": "2026-10-29T00:01:00+00:00",
    "deal_id": "980746",
@@ -5318,6 +5268,12 @@
    "date": "2026-10-27T23:47:51+00:00",
    "deal_id": "980491",
    "low": 499.0,
+   "unit": null
+  },
+  "xbox-series-x": {
+   "date": "2026-10-30T23:49:56+00:00",
+   "deal_id": "980999",
+   "low": 949.0,
    "unit": null
   },
   "xiaomi-17t": {
